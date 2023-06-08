@@ -53,6 +53,6 @@
   },
   "dependencies": {
     "fabric": "^4.2.0",
-    "tui-image-editor": "^3.15.0"
+    "tui-image-editor": "^3.15.3"
   }
 }
