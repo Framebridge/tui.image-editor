@@ -42,7 +42,7 @@
     "vue": "^2.5.17"
   },
   "dependencies": {
-    "fabric": "^4.2.0",
+    "fabric": "^5.0.0",
     "tui-image-editor": "^3.15.0"
   }
 }
